@@ -1,3 +1,4 @@
 Ahorcado
 
 v 0.0.1 - Creación del proyecto.
+v 0.0.2 - Se añade introducción para el proyecto. Se añade identificador de versión beta en el nombre del programa.
