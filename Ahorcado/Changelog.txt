@@ -2,3 +2,6 @@ Ahorcado
 
 v 0.0.1 - Creación del proyecto.
 v 0.0.2 - Se añade introducción para el proyecto. Se añade identificador de versión beta en el nombre del programa.
+v 0.0.3 - Añadida Intro de proyecto, con nombre de programa y espacio reservado para el menú.
+v 0.0.4 - Añadido Menú, con reconocimiento de opción seleccionada. (Error detectado al introducir un caracter no numérico en el menú, y al no inroducir nada).
+v 0.0.5 - Solucionados errores de menú.
